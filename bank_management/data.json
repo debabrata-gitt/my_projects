@@ -33,5 +33,13 @@
         "name": "abhi",
         "email": "",
         "pin": 1234
+    },
+    {
+        "Name": "moyetri pan",
+        "Age": 25,
+        "Email": "moyetri@gmail.com",
+        "Pin": "7212",
+        "account No": "p441*NU",
+        "Balance": 0
     }
 ]
